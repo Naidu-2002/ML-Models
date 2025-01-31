@@ -9,7 +9,7 @@ Linear Regression is a fundamental supervised learning algorithm used for predic
 
 #### Implementation Details:
 - Used the `sklearn.linear_model.LinearRegression` class from Scikit-Learn.
-- Dataset: [Specify Dataset Name or Source]
+- Dataset: Real Estate Price Prediction
 - Performance Metrics: Mean Squared Error (MSE), R-Squared Score
 
 ## Upcoming Models
