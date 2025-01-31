@@ -22,9 +22,3 @@ The following ML models will be added incrementally:
 
 Stay tuned for more updates!
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository, create new branches, and submit pull requests with enhancements or additional models.
-
-## License
-This project is licensed under the MIT License.
-
