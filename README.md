@@ -18,7 +18,6 @@ The following ML models will be added incrementally:
 - Decision Trees
 - Random Forests
 - Support Vector Machines (SVM)
-- Neural Networks
 
 Stay tuned for more updates!
 
